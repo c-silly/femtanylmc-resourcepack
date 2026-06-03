@@ -19,14 +19,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Zip folder
-        run: zip -r release.zip mod-folder/
+        run: zip -r release.zip "mod-folder/"
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v3
         with:
           tag_name: release-${{ github.run_number }}
           name: Release ${{ github.run_number }}
-          files: music.zip
+          files: release.zip
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
