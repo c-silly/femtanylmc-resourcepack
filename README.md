@@ -40,4 +40,9 @@ Pigstep >> Oricade - GONNA GO GAMBLING
 `
 11 >> TAKING WHATS NOT YOURS - TVGIRL
 `  
+`
+Stal >> ivycomb - LDR
+`  
+`
+Relic >> Slendytubbies 3 - Omega
 To either *modify* or *get* the resource pack, ~~download this repo.~~ DOWNLOAD A RELEASE!!!!!!!
