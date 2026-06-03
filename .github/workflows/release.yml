@@ -1,6 +1,7 @@
-name: Release on Folder Change
+name: release
 
 on:
+  workflow_dispatch: 
   push:
     branches:
       - main
