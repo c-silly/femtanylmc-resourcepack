@@ -28,4 +28,10 @@ Strad >> femtanyl - HEAD UP!
 `
 Cat >> Digital Decendent - IT DOESN'T END HERE
 `  
+`
+13 >> Fresca - BITRATE
+`  
+`
+Mall >> Die of Death - The Head Goes To Hell
+`  
 To either *modify* or *get* the resource pack, ~~download this repo.~~ DOWNLOAD A RELEASE!!!!!!!
