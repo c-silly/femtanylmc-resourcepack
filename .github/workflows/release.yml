@@ -15,11 +15,11 @@ jobs:
       contents: write
 
     steps:
-      - name: Debug - list files
-        run: ls -la
+      
       - name: Checkout
         uses: actions/checkout@v4
-
+      - name: Debug - list files
+        run: ls -la
       - name: Zip folder
         run: cd mod-folder && zip -r ../music.zip
 
