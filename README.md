@@ -28,4 +28,4 @@ Strad >> femtanyl - HEAD UP!
 `
 Cat >> Digital Decendent - IT DOESN'T END HERE
 `  
-To either *modify* or *get* the resource pack, download this repo.
+To either *modify* or *get* the resource pack, ~~download this repo.~~ DOWNLOAD A RELEASE!!!!!!!
