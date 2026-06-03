@@ -1,4 +1,4 @@
-name: Release on Folder Change
+name: release
 
 on:
   push:
