@@ -34,4 +34,7 @@ Cat >> Digital Decendent - IT DOESN'T END HERE
 `
 Mall >> Die of Death - The Head Goes To Hell
 `  
+`
+Pigstep >> Oricade - GONNA GO GAMBLING
+`  
 To either *modify* or *get* the resource pack, ~~download this repo.~~ DOWNLOAD A RELEASE!!!!!!!
