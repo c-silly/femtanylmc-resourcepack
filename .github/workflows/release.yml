@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Zip folder
-        run: zip -r release.zip mod-folder/
+        run: cd mod-folder && zip -r ../music.zip
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v3
