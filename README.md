@@ -1,48 +1,8 @@
 # femtanylmc-resourcepack
-This pack has many songs in Minecraft replaced with other songs, mainly by femtanyl.  
-The songs include  
-`
-Precipice >> Slendytubbies 3 - Run Away
-`  
-`
-Chirp >> femtanyl x issbrokie - NASTYWERKKKK
-`  
-`
-Creator >> Eve - Underdog
-`  
-`
-Creator Music Box >> femtanyl - BODY THE PISTOL
-`  
-`
-Pigstep >> issbrokie - TAP DAT!
-`  
-`
-Lava Chicken >> femtanyl x issbrokie - NASTYWERKKKK
-`  
-`
-Otherside >> femtanyl - GIRL HELL 1999
-`  
-`
-Strad >> femtanyl - HEAD UP!
-`  
-`
-Blocks >> Digital Decendent - IT DOESN'T END HERE
-`  
-`
-13 >> Fresca - BITRATE
-`  
-`
-Mall >> Die of Death - The Head Goes To Hell
-`  
-`
-5 >> Oricade - GONNA GO GAMBLING
-`  
-`
-11 >> TAKING WHATS NOT YOURS - TVGIRL
-`  
-`
-Stal >> ivycomb - LDR
-`  
-`
-Relic >> Slendytubbies 3 - Omega
+This pack has many songs in Minecraft replaced with other songs.
+look in the excel spreadsheet to see whats in it
+if you cant see the excel file
+there are billions of ones online, look one up :sob:
+this has lots of songs
+
 To either *modify* or *get* the resource pack, ~~download this repo.~~ DOWNLOAD A RELEASE!!!!!!!

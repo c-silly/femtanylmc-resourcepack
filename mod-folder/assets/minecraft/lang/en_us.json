@@ -8,7 +8,7 @@
   "item.minecraft.music_disc_blocks": "Music Disc",
   "item.minecraft.music_disc_blocks.desc": "DIGITAL DESCENDANT - IT DOESN'T END HERE",
   "item.minecraft.music_disc_cat": "Music Disc",
-  "item.minecraft.music_disc_cat.desc": "ivecomb - LDR",
+  "item.minecraft.music_disc_cat.desc": "OneShot OST - On Little Cat Feet",
   "item.minecraft.music_disc_chirp": "Music Disc",
   "item.minecraft.music_disc_chirp.desc": "Slendytubbies - Omega",
   "item.minecraft.music_disc_creator": "Music Disc",
@@ -40,12 +40,12 @@
   "item.minecraft.music_disc_wait": "Music Disc",
   "item.minecraft.music_disc_wait.desc": "Eve - Underdog",
   "item.minecraft.music_disc_ward": "Music Disc",
-  "item.minecraft.music_disc_ward.desc": "C418 - ward",
+  "item.minecraft.music_disc_ward.desc": "FLAVOR FOLEY - weathergirl",
   "jukebox_song.minecraft.5": "Oricade - GONNA GO GAMBLING",
   "jukebox_song.minecraft.11": "TAKING WHATS NOT YOURS - TVGIRL",
   "jukebox_song.minecraft.13": "DOD - The Heart Goes To Heaven...",
   "jukebox_song.minecraft.blocks": "DIGITAL DECENDENT - IT DOESN'T END HERE",
-  "jukebox_song.minecraft.cat": "ivycomb - LDR",
+  "jukebox_song.minecraft.cat": "OneShot OST - On Little Cat Feet",
   "jukebox_song.minecraft.chirp": "Slendytubbies - Omega",
   "jukebox_song.minecraft.creator": "Fresca - BITRATE",
   "jukebox_song.minecraft.creator_music_box": "Lena Raine - Creator (Music Box)",
@@ -61,5 +61,5 @@
   "jukebox_song.minecraft.strad": "C418 - Strad",
   "jukebox_song.minecraft.tears": "Amos Roddy - Tears",
   "jukebox_song.minecraft.wait": "Eve - Underdog",
-  "jukebox_song.minecraft.ward": "C418 - ward"
+  "jukebox_song.minecraft.ward": "FLAVOR FOLEY - weathergirl"
 }
