@@ -1,0 +1,30 @@
+{
+  "entity.wolf.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  },
+  "entity.wolf_angry.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  },
+  "entity.wolf_big.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  },
+  "entity.wolf_cute.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  },
+  "entity.wolf_grumpy.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  },
+  "entity.wolf_puglin.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  },
+  "entity.wolf_sad.ambient": {
+    "replace": true,
+    "sounds": ["mob/wolf/mybark"]
+  }
+}
